@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ddeficit !
+- 👀 I’m interested in Python, Uniqueness and Eating.
+- 🌱 I’m currently learning about life.
